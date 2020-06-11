@@ -1,0 +1,6 @@
+c:\users\xdani\documents\visual studio 2017\Projects\animals\animals\bin\Debug\animals.exe.config
+c:\users\xdani\documents\visual studio 2017\Projects\animals\animals\bin\Debug\animals.exe
+c:\users\xdani\documents\visual studio 2017\Projects\animals\animals\bin\Debug\animals.pdb
+c:\users\xdani\documents\visual studio 2017\Projects\animals\animals\obj\Debug\animals.csprojResolveAssemblyReference.cache
+c:\users\xdani\documents\visual studio 2017\Projects\animals\animals\obj\Debug\animals.exe
+c:\users\xdani\documents\visual studio 2017\Projects\animals\animals\obj\Debug\animals.pdb
